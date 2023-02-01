@@ -1,0 +1,7 @@
+Rectangle,5.1,1.2
+Circle,15.124357427
+Rectangle,25.0,55
+Circle,11
+Circle,100
+Rectangle,44.3,55.21
+Rectangle,11.45,89.3
